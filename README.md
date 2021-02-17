@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align = "center"> Olá 👋, sou Cleber Fontinele de Souza </h1>
+<!-- <h1 align = "center"> Olá 👋, sou Cleber Fontinele de Souza </h1>
 <h3 align = "center"> Estudante de Desenvolvimento de Software | Trybe. </h3>
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=cleberfontinele&show_icons=true&locale=en&layout=compact" alt = "cleberfontinele" /> </p>
 
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=cleberfontinele&show_icons=true&locale=en" alt = "cleberfontinele" /> </p>
-
+ -->
