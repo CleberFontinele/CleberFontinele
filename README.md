@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   
-<a target="_blank" href="https://www.linkedin.com/in/cleberfontineledesouza/">
+<a href="https://www.linkedin.com/in/cleberfontineledesouza/" target="_blank">
   <img align="middle" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
 </a>
 
