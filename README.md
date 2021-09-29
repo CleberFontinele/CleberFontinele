@@ -1,11 +1,12 @@
 
 
 <h1 align="center">Olá 👋, eu sou o Cleber Fontinele de Souza</h1>
-<h3 align="center">Estudante de Desenvolvimento de Software | Trybe.</h3>
+<h3 align="center">Estudante de Desenvolvimento de Software.</h3>
 
-- 📫 Email: **cleberfontinele@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
+
+- 📫 Email: **cleberfontinele@hotmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/cleberfontineledesouza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberfontineledesouza" height="30" width="40" /></a>
 </p>
