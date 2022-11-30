@@ -5,9 +5,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 
-- </p> 📫 Email: **cleberfontinele@hotmail.com**
+- 📫 Email: **cleberfontinele@hotmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/cleberfontineledesouza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberfontineledesouza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cleberfontineledesouza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberfontineledesouza" height="30" width="40" /></a></p>
 
 
 
