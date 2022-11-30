@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Olá 👋, eu sou o Cleber Fontinele de Souza</h1>
-<h3 align="center">Estudante de Desenvolvimento de Software.</h3>
 
 
 <h3 align="left">Conecte-se comigo:</h3>
