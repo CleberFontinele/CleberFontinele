@@ -5,9 +5,10 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 
-- <p align="left">
+- </p> 📫 Email: **cleberfontinele@hotmail.com**
+<p align="left">
 <a href="https://linkedin.com/in/cleberfontineledesouza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberfontineledesouza" height="30" width="40" /></a>
-</p> 📫 Email: **cleberfontinele@hotmail.com**
+
 
 
 <img align="right" alt="cleber-octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627473279356.png" width="300px"/>
